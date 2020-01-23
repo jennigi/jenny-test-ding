@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Willkommen auf Jenny Seite
 
 You can use the [editor on GitHub](https://github.com/jennigi/jenny-test-ding/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
